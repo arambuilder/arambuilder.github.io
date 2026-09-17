@@ -1,4 +1,4 @@
-# Lò Rèn Hỗn Loạn – dự án ARAM Mayhem
+# Lò Rèn Hỗn Loạn – created by Shin
 
 - `Lo_Ren_Hon_Loan.html` – trang web hoàn chỉnh (mở trực tiếp bằng trình duyệt).
 - `src/builds.js` – hồ sơ build từng tướng (hướng build, 2 món Core, kho đồ Optional).
